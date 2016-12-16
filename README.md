@@ -3,8 +3,6 @@ FIFO, LRU, LFU page replacement policy algorithms in Java
 
 PAGE REPLACEMENT POLICIES
 
-PAGE REPLACEMENT POLICIES
-
 - When page fault occurs, the referenced page must be loaded.
 - If there is no available frame in memory, then one page is selected for replacement.
 - If the selected page has been modified, it must be copied back to disk (swapped out).
